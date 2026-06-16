@@ -1,0 +1,6 @@
+{
+  "name": "Автоматизация Дуа",
+  "description": "Автоматическое воспроизведение предустановленных дуа при системных событиях.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
